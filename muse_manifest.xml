@@ -1,0 +1,450 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="m-itsme.torbara.com" resolutions="1x" timestamp="1450423814875">
+  <folder name="css">
+    <file name="site_global.css" crc="3991050950"/>
+    <file name="master_hansen.css" crc="29070204" ref="hansen:blog-detail-hanses"/>
+    <file name="master_portman.css" crc="3834342289" ref="blog-list-portman:blog-detail-portman:portman"/>
+    <file name="master_dopazo.css" crc="3838017391" ref="dopazo:blog-detail-dopazo"/>
+    <file name="master_robert.css" crc="4052296736" ref="index:blog-detail-robert"/>
+    <file name="portfolio-detail-hanses.css" crc="3886387953" ref="portfolio-detail-hanses"/>
+    <file name="iefonts_portfolio-detail-hanses.css" crc="3791931369" ref="portfolio-detail-hanses"/>
+    <file name="blog-list-portman.css" crc="4232118454" ref="blog-list-portman"/>
+    <file name="iefonts_blog-list-portman.css" crc="490337677" ref="blog-list-portman"/>
+    <file name="index.css" crc="401892198" ref="index"/>
+    <file name="iefonts_index.css" crc="329509128" ref="index"/>
+    <file name="blog-detail-portman.css" crc="4161154496" ref="blog-detail-portman"/>
+    <file name="iefonts_blog-detail-portman.css" crc="127491147" ref="blog-detail-portman"/>
+    <file name="dopazo.css" crc="332862341" ref="dopazo"/>
+    <file name="iefonts_dopazo.css" crc="4200278462" ref="dopazo"/>
+    <file name="hansen.css" crc="4126373874" ref="hansen"/>
+    <file name="iefonts_hansen.css" crc="138888463" ref="hansen"/>
+    <file name="portman.css" crc="475135241" ref="portman"/>
+    <file name="iefonts_portman.css" crc="3997570476" ref="portman"/>
+    <file name="portfolio-detail-robert.css" crc="396141218" ref="portfolio-detail-robert"/>
+    <file name="iefonts_portfolio-detail-robert.css" crc="4097779046" ref="portfolio-detail-robert"/>
+    <file name="blog-detail-robert.css" crc="3907460043" ref="blog-detail-robert"/>
+    <file name="iefonts_blog-detail-robert.css" crc="370929564" ref="blog-detail-robert"/>
+    <file name="blog-detail-dopazo.css" crc="4122446820" ref="blog-detail-dopazo"/>
+    <file name="iefonts_blog-detail-dopazo.css" crc="492255615" ref="blog-detail-dopazo"/>
+    <file name="portfolio-detail-dopazo.css" crc="3993905259" ref="portfolio-detail-dopazo"/>
+    <file name="iefonts_portfolio-detail-dopazo.css" crc="187108762" ref="portfolio-detail-dopazo"/>
+    <file name="blog-detail-hanses.css" crc="3802938855" ref="blog-detail-hanses"/>
+    <file name="iefonts_blog-detail-hanses.css" crc="4161061550" ref="blog-detail-hanses"/>
+  </folder>
+  <folder name="fonts">
+    <file name="simple-line-icons.woff" crc="446401973"/>
+    <file name="simple-line-icons.eot" crc="3927727211"/>
+    <file name="simple-line-icons.svg" crc="4121555530"/>
+  </folder>
+  <folder name="assets">
+    <folder name="darkhand">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1449490722000"/>
+      </folder>
+      <folder name="images">
+        <file name="darkhand.png" crc="296926674" mt="1449490722000"/>
+      </folder>
+      <file name="transparent.png" crc="269238210" mt="1449490722000"/>
+      <file name="darkhand_edge.js" crc="3814734400" mt="1449490722000"/>
+      <file name="darkhand.html" crc="4257961936" mt="1449490722000"/>
+    </folder>
+    <folder name="lighthand">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1449489818000"/>
+      </folder>
+      <folder name="images">
+        <file name="lighthand.png" crc="150540890" mt="1449489818000"/>
+      </folder>
+      <file name="transparent.png" crc="269238210" mt="1449489818000"/>
+      <file name="lighthand_edge.js" crc="408749246" mt="1449489818000"/>
+      <file name="lighthand.html" crc="4132339859" mt="1449489818000"/>
+    </folder>
+    <folder name="darkmouse">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1449126436000"/>
+      </folder>
+      <folder name="images">
+        <file name="mouse_dark.png" crc="4126716715" mt="1449126436000"/>
+      </folder>
+      <file name="transparent.png" crc="214425143" mt="1449126436000"/>
+      <file name="darkmouse_edge.js" crc="3829632436" mt="1449126436000"/>
+      <file name="darkmouse.html" crc="445377905" mt="1449126436000"/>
+    </folder>
+    <folder name="lightmouse">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1449126264000"/>
+      </folder>
+      <folder name="images">
+        <file name="mouse_light.png" crc="3866497702" mt="1449126264000"/>
+      </folder>
+      <file name="transparent.png" crc="214425143" mt="1449126264000"/>
+      <file name="lightmouse_edge.js" crc="67056476" mt="1449126264000"/>
+      <file name="lightmouse.html" crc="4151145800" mt="1449126264000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>hansen:phone>portfolio-detail-hanses:phone>portman:tablet>portfolio-detail-robert:tablet>dopazo:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:tablet>portman:portman:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:phone>blog-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:phone>dopazo:phone>hansen:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>dopazo:tablet>hansen:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-list-portman:blog-detail-portman"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:phone>dopazo:phone>hansen:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>dopazo:tablet>hansen:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-list-portman:blog-detail-portman"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:phone>dopazo:phone>hansen:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>dopazo:tablet>hansen:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-list-portman:blog-detail-portman"/>
+    <file name="form-u17031.php" crc="4161892061" ref="phone>index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="form-u16627.php" crc="3791748983" ref="phone>dopazo"/>
+    <file name="form-u15862.php" crc="3905089505" ref="phone>hansen"/>
+    <file name="form-u14756.php" crc="4165389704" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="tablet>index:tablet>blog-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:blog-detail-dopazo:blog-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="form-u9687.php" crc="345499899" ref="tablet>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="form-u11361.php" crc="510151802" ref="tablet>dopazo"/>
+    <file name="form-u11772.php" crc="3906251113" ref="tablet>hansen"/>
+    <file name="form-u10983.php" crc="4122867824" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+    <file name="form-u2816.php" crc="4003657221" ref="index"/>
+    <file name="form-u3247.php" crc="75502167" ref="dopazo"/>
+    <file name="form-u4353.php" crc="389669341" ref="hansen"/>
+    <file name="form-u7403.php" crc="4149878918" ref="portman:blog-list-portman:blog-detail-portman"/>
+  </folder>
+  <folder name="images">
+    <file name="robert-favicon.ico" crc="56901740" ref="phone>index:index"/>
+    <file name="robert_hero.jpg" crc="3772186570" ref="phone>index:tablet>index:index"/>
+    <file name="robertlogo.png" crc="133785391" seo="true" ref="phone>index:phone>blog-detail-robert:tablet>index:tablet>blog-detail-robert:index:blog-detail-robert"/>
+    <file name="bot_triangle.png" crc="3861456567" ref="phone>index:phone>blog-detail-robert:phone>portfolio-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-list-portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:portfolio-detail-robert:blog-detail-dopazo:portfolio-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses:blog-list-portman:blog-detail-portman"/>
+    <file name="arrow_right.png" crc="430222084" seo="true" ref="phone>index:phone>blog-detail-robert:phone>dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:phone>blog-detail-portman:tablet>index:tablet>blog-detail-robert:tablet>dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman:index:dopazo:hansen:portman:blog-detail-robert:blog-detail-hanses:portfolio-detail-hanses:blog-detail-portman"/>
+    <file name="menu_orange.png" crc="3780501285" ref="phone>index:index"/>
+    <file name="menuclose_red.png" crc="452191464" ref="phone>index:phone>dopazo:phone>hansen:phone>portman:tablet>portman:portman"/>
+    <file name="top_triangle.png" crc="28160669" ref="phone>index:phone>blog-detail-robert:phone>dopazo:phone>blog-detail-dopazo:phone>hansen:phone>blog-detail-hanses:phone>portfolio-detail-hanses:phone>portman:tablet>index:tablet>blog-detail-robert:tablet>dopazo:tablet>blog-detail-dopazo:tablet>hansen:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:tablet>portman:index:dopazo:hansen:portman:blog-detail-robert:blog-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses"/>
+    <file name="01.jpg" crc="4145597813" seo="true" ref="phone>index:phone>dopazo:phone>hansen:tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="02.jpg" crc="4152966318" seo="true" ref="phone>index:phone>portfolio-detail-robert:phone>dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>portfolio-detail-hanses:tablet>index:tablet>portfolio-detail-robert:tablet>dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>portfolio-detail-hanses:index:dopazo:hansen:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="arrow_left.png" crc="39525976" seo="true" ref="phone>index:phone>hansen:tablet>index:tablet>hansen:index:hansen:portman:blog-list-portman:blog-detail-portman"/>
+    <file name="04.jpg" crc="104142948" seo="true" ref="phone>index:phone>dopazo:phone>hansen:tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="03.jpg" crc="329170542" seo="true" ref="phone>index:phone>portfolio-detail-robert:phone>dopazo:phone>portfolio-detail-dopazo:phone>hansen:phone>portfolio-detail-hanses:tablet>index:tablet>portfolio-detail-robert:tablet>dopazo:tablet>portfolio-detail-dopazo:tablet>hansen:tablet>portfolio-detail-hanses:index:dopazo:hansen:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="05.jpg" crc="216294525" ref="phone>index:phone>dopazo:phone>hansen:tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="scrollbar_orange-95.png" crc="87193233" ref="phone>index:tablet>index:index"/>
+    <file name="scrollbar_orange-75.png" crc="363298726" ref="phone>index:tablet>index:index"/>
+    <file name="scrollbar_orange-55.png" crc="486739968" ref="phone>index:tablet>index:index"/>
+    <file name="u17047-17.png" crc="4208805161" ref="phone>index"/>
+    <file name="u17047-17-r.png" crc="58962403" ref="phone>index"/>
+    <file name="u17047-17-m.png" crc="4006819130" ref="phone>index"/>
+    <file name="u17047-17-fs.png" crc="254487741" ref="phone>index"/>
+    <file name="menuclose_orange.png" crc="240153764" ref="phone>index:phone>dopazo:tablet>index:tablet>dopazo:index:dopazo"/>
+    <file name="blog_bigimg01.jpg" crc="3823723511" ref="phone>blog-detail-robert:tablet>blog-detail-robert:blog-detail-robert"/>
+    <file name="nextprev_orange.png" crc="3957938915" ref="phone>blog-detail-robert:phone>portfolio-detail-robert:phone>portfolio-detail-hanses:tablet>blog-detail-robert:tablet>portfolio-detail-robert:tablet>portfolio-detail-hanses:blog-detail-robert:portfolio-detail-robert:portfolio-detail-hanses"/>
+    <file name="blog_img02.jpg" crc="4177868123" ref="phone>blog-detail-robert:phone>blog-detail-dopazo:phone>blog-detail-hanses:tablet>blog-detail-robert:tablet>blog-detail-dopazo:tablet>blog-detail-hanses:blog-detail-robert:blog-detail-dopazo:blog-detail-hanses"/>
+    <file name="top_slope.png" crc="3933142310" ref="phone>blog-detail-robert:phone>blog-detail-dopazo:phone>blog-detail-hanses:phone>portfolio-detail-hanses:tablet>blog-detail-robert:tablet>blog-detail-dopazo:tablet>blog-detail-hanses:tablet>portfolio-detail-hanses:blog-detail-robert:blog-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses"/>
+    <file name="avatar_robert.jpg" crc="3976072542" ref="phone>blog-detail-robert:tablet>blog-detail-robert:blog-detail-robert"/>
+    <file name="portfolio-detail-robert-favicon.ico" crc="56901740" ref="phone>portfolio-detail-robert"/>
+    <file name="06.jpg" crc="321839555" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="06-u15506-r-fr.png" crc="20720007" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="07.jpg" crc="4249359949" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="07-u15509-r-fr.png" crc="92278366" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="08.jpg" crc="66715006" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="08-u15507-r-fr.png" crc="302932665" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="09.jpg" crc="213803234" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="09-u15508-r-fr.png" crc="380425667" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="10.jpg" crc="257011613" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="10-u15510-r-fr.png" crc="327116075" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="12-u15487-fr.jpg" crc="4097889512" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="12-u15487-r-fr.png" crc="408848645" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="16-u15485-fr.jpg" crc="4166342238" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo"/>
+    <file name="16-u15485-r-fr.png" crc="509197312" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo"/>
+    <file name="11.jpg" crc="302152185" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="11-u15489-r-fr.png" crc="3875192366" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="03-u15488-r-fr.png" crc="37463076" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="02-u15486-r-fr.png" crc="197755347" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="13.jpg" crc="3849991464" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="13-u15490-r-fr.png" crc="453816369" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="14.jpg" crc="419432864" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="14-u15484-r-fr.png" crc="4272506121" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="18-u15483-fr.jpg" crc="4251816522" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo"/>
+    <file name="18-u15483-r-fr.png" crc="3776682362" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo"/>
+    <file name="16.jpg" crc="3915289667" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:phone>blog-list-portman:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:tablet>blog-list-portman:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses:blog-list-portman"/>
+    <file name="16-u15491-r-fr.png" crc="519840384" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="12.jpg" crc="3827873105" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="16-u15475-fr.jpg" crc="241890502" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="18.jpg" crc="17368623" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:phone>portfolio-detail-hanses:phone>blog-list-portman:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:tablet>portfolio-detail-hanses:tablet>blog-list-portman:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses:blog-list-portman"/>
+    <file name="16-u15470-fr.jpg" crc="510169584" ref="phone>portfolio-detail-robert:phone>portfolio-detail-dopazo:tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="dopazo-favicon.ico" crc="56901740" ref="phone>dopazo"/>
+    <file name="dopazo_hero.jpg" crc="473220564" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="dopazologo.png" crc="412879948" seo="true" ref="phone>dopazo:phone>blog-detail-dopazo:tablet>dopazo:tablet>blog-detail-dopazo:dopazo:blog-detail-dopazo"/>
+    <file name="arrow_right_white.png" crc="58374882" ref="phone>dopazo:tablet>index:tablet>dopazo:tablet>blog-detail-dopazo:tablet>hansen:tablet>portman:index:dopazo:hansen:portman:blog-detail-dopazo"/>
+    <file name="menu_pink.png" crc="3852015563" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="arrow_right_gray.png" crc="3948203106" seo="true" ref="phone>dopazo:phone>blog-detail-dopazo:tablet>dopazo:tablet>blog-detail-dopazo:dopazo:blog-detail-dopazo"/>
+    <file name="arrow_left_gray.png" crc="4037769534" seo="true" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="scrollbar_pink-95.png" crc="99633003" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="scrollbar_pink-75.png" crc="4004028737" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="scrollbar_pink-55.png" crc="3818556094" ref="phone>dopazo:tablet>dopazo:dopazo"/>
+    <file name="u16633-17.png" crc="3914035423" ref="phone>dopazo"/>
+    <file name="u16633-17-r.png" crc="4150588378" ref="phone>dopazo"/>
+    <file name="u16633-17-m.png" crc="4150588378" ref="phone>dopazo"/>
+    <file name="u16633-17-fs.png" crc="52667503" ref="phone>dopazo"/>
+    <file name="blog-detail-dopazo-favicon.ico" crc="56901740" ref="phone>blog-detail-dopazo"/>
+    <file name="blog_bigimg02.jpg" crc="3909479270" ref="phone>blog-detail-dopazo:phone>blog-list-portman:tablet>blog-detail-dopazo:tablet>blog-list-portman:blog-detail-dopazo:blog-list-portman"/>
+    <file name="nextprev_pink.png" crc="339352582" ref="phone>blog-detail-dopazo:phone>portfolio-detail-dopazo:tablet>blog-detail-dopazo:tablet>portfolio-detail-dopazo:blog-detail-dopazo:portfolio-detail-dopazo"/>
+    <file name="avatar_dopazo.jpg" crc="3974667572" ref="phone>blog-detail-dopazo:tablet>blog-detail-dopazo:blog-detail-dopazo"/>
+    <file name="portfolio-detail-dopazo-favicon.ico" crc="56901740" ref="phone>portfolio-detail-dopazo"/>
+    <file name="17.jpg" crc="3879310814" ref="phone>portfolio-detail-dopazo:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo:portfolio-detail-hanses"/>
+    <file name="17-u15396-r-fr.png" crc="281900331" ref="phone>portfolio-detail-dopazo:tablet>portfolio-detail-dopazo:portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="hansen-favicon.ico" crc="56901740" ref="phone>hansen"/>
+    <file name="hansen_hero.jpg" crc="3874323779" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="hansenlogo.png" crc="355370891" seo="true" ref="phone>hansen:phone>blog-detail-hanses:tablet>hansen:tablet>blog-detail-hanses:hansen:blog-detail-hanses"/>
+    <file name="menu_blue.png" crc="3917373910" ref="phone>hansen:tablet>index:tablet>hansen:hansen"/>
+    <file name="bot_triangle_orange.png" crc="525120576" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="scrollbar_yellow-95.png" crc="134951293" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="scrollbar_yellow-75.png" crc="494234692" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="scrollbar_yellow-55.png" crc="86610743" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="top_triangle_orange.png" crc="3961310089" ref="phone>hansen:tablet>hansen:hansen"/>
+    <file name="u15867-17.png" crc="3984176989" ref="phone>hansen"/>
+    <file name="u15867-17-r.png" crc="3924494709" ref="phone>hansen"/>
+    <file name="u15867-17-m.png" crc="3924494709" ref="phone>hansen"/>
+    <file name="u15867-17-fs.png" crc="23825211" ref="phone>hansen"/>
+    <file name="menuclose_blue.png" crc="4073391106" ref="phone>hansen:tablet>index:tablet>hansen:hansen"/>
+    <file name="blog-detail-hanses-favicon.ico" crc="56901740" ref="phone>blog-detail-hanses"/>
+    <file name="blog_bigimg03.jpg" crc="3762875922" ref="phone>blog-detail-hanses:tablet>blog-detail-hanses:blog-detail-hanses"/>
+    <file name="nextprev_blue.png" crc="509908235" ref="phone>blog-detail-hanses:tablet>blog-detail-hanses:blog-detail-hanses"/>
+    <file name="bot_slope.png" crc="4196671150" ref="phone>blog-detail-hanses:phone>portfolio-detail-hanses:tablet>blog-detail-robert:tablet>blog-detail-dopazo:tablet>portfolio-detail-hanses:blog-detail-robert:blog-detail-dopazo:blog-detail-hanses:portfolio-detail-hanses"/>
+    <file name="avatar_hansen.jpg" crc="79127786" ref="phone>blog-detail-hanses:tablet>blog-detail-hanses:blog-detail-hanses"/>
+    <file name="portfolio-detail-hanses-favicon.ico" crc="56901740" ref="phone>portfolio-detail-hanses"/>
+    <file name="portfoliodetai01.jpg" crc="3852560393" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="macbook383x218.png" crc="4221707923" seo="true" ref="phone>portfolio-detail-hanses"/>
+    <file name="19.jpg" crc="4121620324" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="19-u15101-r-fr.png" crc="88836064" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="20.jpg" crc="99005813" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="20-u15096-r-fr.png" crc="4200613283" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="portfoliodetail02.jpg" crc="360791585" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="portman-favicon.ico" crc="56901740" ref="phone>portman"/>
+    <file name="portman_hero.jpg" crc="254408067" ref="phone>portman:tablet>portman:portman"/>
+    <file name="redhover.gif" crc="4045942084" ref="phone>portman:tablet>portman:portman"/>
+    <file name="menu_red.png" crc="4211247620" ref="phone>portman:tablet>portman:portman"/>
+    <file name="22.jpg" crc="79617254" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="testimonials.jpg" crc="453884283" ref="phone>portman:tablet>portman:portman"/>
+    <file name="clients-client1.jpg" crc="239548057" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="clients-client2.jpg" crc="491857072" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="clients-client3.jpg" crc="409374120" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="clients-client4.png" crc="448194425" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="image_background2.png" crc="4173762647" ref="phone>portman:tablet>portman:portman"/>
+    <file name="blackcolor_background.png" crc="4208917070" ref="phone>portman:tablet>portman:portman"/>
+    <file name="26-crop-u14332.jpg" crc="227128541" ref="phone>portman"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>portman:tablet>portman:portman"/>
+    <file name="27-crop-u14338.jpg" crc="4291469379" ref="phone>portman"/>
+    <file name="28-crop-u14330.jpg" crc="325047887" ref="phone>portman"/>
+    <file name="29-crop-u14334.jpg" crc="4241130095" ref="phone>portman"/>
+    <file name="30-crop-u14336.jpg" crc="4028276391" ref="phone>portman"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>portman:tablet>portman:portman"/>
+    <file name="image_background3-u14303-fr.png" crc="3935189576" ref="phone>portman:tablet>portman:portman"/>
+    <file name="31.jpg" crc="4104119651" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="32.jpg" crc="70416900" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="33.jpg" crc="120665097" seo="true" ref="phone>portman:tablet>portman:portman"/>
+    <file name="u14766-17.png" crc="398049423" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+    <file name="u14766-17-r.png" crc="4150284313" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+    <file name="u14766-17-m.png" crc="4150284313" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+    <file name="u14766-17-fs.png" crc="388309869" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+    <file name="blog_bigimg04.jpg" crc="3889422443" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="35.jpg" crc="334714687" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="avatar_portman.jpg" crc="3890463419" ref="phone>blog-list-portman:phone>blog-detail-portman:tablet>blog-list-portman:tablet>blog-detail-portman:blog-list-portman:blog-detail-portman"/>
+    <file name="36.jpg" crc="4171112179" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="37.jpg" crc="4241528119" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="38.jpg" crc="3870335551" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="34.jpg" crc="318418051" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="30.jpg" crc="122195853" ref="phone>blog-list-portman:tablet>portman:tablet>blog-list-portman:portman:blog-list-portman" seo="true"/>
+    <file name="162.jpg" crc="4210798715" ref="phone>blog-list-portman:tablet>blog-list-portman:blog-list-portman"/>
+    <file name="blog_bigimg05.jpg" crc="4155398391" ref="phone>blog-detail-portman:tablet>blog-detail-portman:blog-detail-portman"/>
+    <file name="color_background.png" crc="4072444970" ref="phone>blog-detail-portman:tablet>blog-detail-portman:portman:blog-detail-portman"/>
+    <file name="39384x198.jpg" crc="181866771" seo="true" ref="phone>blog-detail-portman"/>
+    <file name="40.jpg" crc="3871037870" seo="true" ref="phone>blog-detail-portman:tablet>blog-detail-portman:blog-detail-portman"/>
+    <file name="u9699-17.png" crc="3830899664" ref="tablet>index"/>
+    <file name="u9699-17-r.png" crc="4196503068" ref="tablet>index"/>
+    <file name="u9699-17-m.png" crc="21152221" ref="tablet>index"/>
+    <file name="u9699-17-fs.png" crc="4026912980" ref="tablet>index"/>
+    <file name="workflow_01.jpg" crc="4168113817" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="righttoleft.png" crc="3829626580" seo="true" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="workflow_02.jpg" crc="422363194" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="lefttoright.png" crc="3969282928" seo="true" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="workflow_03.jpg" crc="401921118" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="workflow_04.jpg" crc="193514832" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="workflow_05.jpg" crc="387912694" ref="tablet>index:tablet>dopazo:tablet>hansen:index:dopazo:hansen"/>
+    <file name="18-u9788-fr.jpg" crc="332531520" ref="tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo"/>
+    <file name="18-u9788-r-fr.png" crc="4293954560" ref="tablet>portfolio-detail-robert:tablet>portfolio-detail-dopazo"/>
+    <file name="menuclose_pink.png" crc="4095860205" ref="tablet>dopazo:dopazo"/>
+    <file name="u11370-17.png" crc="430577239" ref="tablet>dopazo"/>
+    <file name="u11370-17-r.png" crc="4163761399" ref="tablet>dopazo"/>
+    <file name="u11370-17-m.png" crc="4163761399" ref="tablet>dopazo"/>
+    <file name="u11370-17-fs.png" crc="4020618565" ref="tablet>dopazo"/>
+    <file name="u11773-17.png" crc="533624396" ref="tablet>hansen"/>
+    <file name="u11773-17-r.png" crc="409599558" ref="tablet>hansen"/>
+    <file name="u11773-17-m.png" crc="409599558" ref="tablet>hansen"/>
+    <file name="u11773-17-fs.png" crc="3899268874" ref="tablet>hansen"/>
+    <file name="macbook768x437.png" crc="170153964" seo="true" ref="tablet>portfolio-detail-hanses"/>
+    <file name="21.jpg" crc="4253186711" ref="tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="21-u9957-r-fr.png" crc="172734171" ref="tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="23.jpg" crc="273969584" ref="tablet>portman:portman"/>
+    <file name="25.jpg" crc="4243917070" ref="tablet>portman:portman"/>
+    <file name="clients-client1c.png" crc="533877080" ref="tablet>portman:portman"/>
+    <file name="clients-client5.jpg" crc="160713260" seo="true" ref="tablet>portman:portman"/>
+    <file name="clients-client6.png" crc="373818186" seo="true" ref="tablet>portman:portman"/>
+    <file name="clients-client7.jpg" crc="3899040495" seo="true" ref="tablet>portman:portman"/>
+    <file name="clients-client8.jpg" crc="3950019735" seo="true" ref="tablet>portman:portman"/>
+    <file name="image_background.png" crc="4053593218" ref="tablet>portman:portman"/>
+    <file name="26.jpg" crc="4069670482" seo="true" ref="tablet>portman:portman"/>
+    <file name="27.jpg" crc="4151472913" seo="true" ref="tablet>portman:portman"/>
+    <file name="28.jpg" crc="4197072542" seo="true" ref="tablet>portman:portman"/>
+    <file name="29.jpg" crc="77841335" seo="true" ref="tablet>portman:portman"/>
+    <file name="u10999-17.png" crc="398049423" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+    <file name="u10999-17-r.png" crc="4150284313" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+    <file name="u10999-17-m.png" crc="4150284313" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+    <file name="u10999-17-fs.png" crc="388309869" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+    <file name="39.jpg" crc="521021598" seo="true" ref="tablet>blog-detail-portman:blog-detail-portman"/>
+    <file name="u2823-17.png" crc="3830899664" ref="index"/>
+    <file name="u2823-17-r.png" crc="4196503068" ref="index"/>
+    <file name="u2823-17-m.png" crc="21152221" ref="index"/>
+    <file name="u2823-17-fs.png" crc="4026912980" ref="index"/>
+    <file name="u3263-17.png" crc="430577239" ref="dopazo"/>
+    <file name="u3263-17-r.png" crc="4163761399" ref="dopazo"/>
+    <file name="u3263-17-m.png" crc="4163761399" ref="dopazo"/>
+    <file name="u3263-17-fs.png" crc="4020618565" ref="dopazo"/>
+    <file name="u4364-17.png" crc="533624396" ref="hansen"/>
+    <file name="u4364-17-r.png" crc="409599558" ref="hansen"/>
+    <file name="u4364-17-m.png" crc="409599558" ref="hansen"/>
+    <file name="u4364-17-fs.png" crc="3899268874" ref="hansen"/>
+    <file name="u7409-17.png" crc="398049423" ref="portman:blog-list-portman:blog-detail-portman"/>
+    <file name="u7409-17-r.png" crc="4150284313" ref="portman:blog-list-portman:blog-detail-portman"/>
+    <file name="u7409-17-m.png" crc="4150284313" ref="portman:blog-list-portman:blog-detail-portman"/>
+    <file name="u7409-17-fs.png" crc="388309869" ref="portman:blog-list-portman:blog-detail-portman"/>
+    <file name="16-u5627-fr.jpg" crc="4000290447" ref="portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="16-u5627-r-fr.png" crc="303930246" ref="portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="18-u5628-r-fr.png" crc="174795391" ref="portfolio-detail-robert:portfolio-detail-dopazo"/>
+    <file name="macbook.png" crc="4195348658" seo="true" ref="portfolio-detail-hanses"/>
+    <file name="06-u15099-r-fr.png" crc="20720007" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="08-u15102-r-fr.png" crc="302932665" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="09-u15103-r-fr.png" crc="380425667" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="10-u15097-r-fr.png" crc="327116075" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="12-u15083-fr.jpg" crc="4097889512" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="12-u15083-r-fr.png" crc="408848645" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="16-u15078-fr.jpg" crc="4166342238" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses"/>
+    <file name="16-u15078-r-fr.png" crc="509197312" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses"/>
+    <file name="11-u15079-r-fr.png" crc="3875192366" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="03-u15081-r-fr.png" crc="37463076" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="02-u15080-r-fr.png" crc="197755347" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="13-u15077-r-fr.png" crc="453816369" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="14-u15084-r-fr.png" crc="4272506121" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="18-u15085-fr.jpg" crc="4251816522" ref="phone>portfolio-detail-hanses"/>
+    <file name="18-u15085-r-fr.png" crc="3776682362" ref="phone>portfolio-detail-hanses"/>
+    <file name="16-u15082-r-fr.png" crc="519840384" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="16-u15071-fr.jpg" crc="241890502" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="16-u15063-fr.jpg" crc="510169584" ref="phone>portfolio-detail-hanses:tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="07-u9956-r-fr.png" crc="92278366" ref="tablet>portfolio-detail-hanses:portfolio-detail-hanses"/>
+    <file name="18-u9920-fr.jpg" crc="332531520" ref="tablet>portfolio-detail-hanses"/>
+    <file name="18-u9920-r-fr.png" crc="4293954560" ref="tablet>portfolio-detail-hanses"/>
+    <file name="16-u5980-fr.jpg" crc="4000290447" ref="portfolio-detail-hanses"/>
+    <file name="16-u5980-r-fr.png" crc="303930246" ref="portfolio-detail-hanses"/>
+    <file name="17-u5985-r-fr.png" crc="281900331" ref="portfolio-detail-hanses"/>
+    <file name="18-u5978-r-fr.png" crc="174795391" ref="portfolio-detail-hanses"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_dopazo.css" crc="354810168" ref="tablet>dopazo:tablet>blog-detail-dopazo"/>
+      <file name="master_portman.css" crc="3933606961" ref="tablet>portman:tablet>blog-list-portman:tablet>blog-detail-portman"/>
+      <file name="master_hansen.css" crc="4014936114" ref="tablet>hansen:tablet>blog-detail-hanses"/>
+      <file name="master_robert.css" crc="349796347" ref="tablet>index:tablet>blog-detail-robert"/>
+      <file name="portman.css" crc="283770669" ref="tablet>portman"/>
+      <file name="iefonts_portman.css" crc="197039753" ref="tablet>portman"/>
+      <file name="blog-list-portman.css" crc="415561738" ref="tablet>blog-list-portman"/>
+      <file name="iefonts_blog-list-portman.css" crc="351927966" ref="tablet>blog-list-portman"/>
+      <file name="blog-detail-portman.css" crc="425444098" ref="tablet>blog-detail-portman"/>
+      <file name="iefonts_blog-detail-portman.css" crc="3848700642" ref="tablet>blog-detail-portman"/>
+      <file name="index.css" crc="237952434" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="126567748" ref="tablet>index"/>
+      <file name="blog-detail-robert.css" crc="319417720" ref="tablet>blog-detail-robert"/>
+      <file name="iefonts_blog-detail-robert.css" crc="148329550" ref="tablet>blog-detail-robert"/>
+      <file name="portfolio-detail-robert.css" crc="4170129804" ref="tablet>portfolio-detail-robert"/>
+      <file name="iefonts_portfolio-detail-robert.css" crc="535873960" ref="tablet>portfolio-detail-robert"/>
+      <file name="dopazo.css" crc="479021456" ref="tablet>dopazo"/>
+      <file name="iefonts_dopazo.css" crc="313929578" ref="tablet>dopazo"/>
+      <file name="blog-detail-dopazo.css" crc="3978225964" ref="tablet>blog-detail-dopazo"/>
+      <file name="iefonts_blog-detail-dopazo.css" crc="223385606" ref="tablet>blog-detail-dopazo"/>
+      <file name="portfolio-detail-dopazo.css" crc="210701766" ref="tablet>portfolio-detail-dopazo"/>
+      <file name="iefonts_portfolio-detail-dopazo.css" crc="4068984169" ref="tablet>portfolio-detail-dopazo"/>
+      <file name="hansen.css" crc="9482003" ref="tablet>hansen"/>
+      <file name="iefonts_hansen.css" crc="300736077" ref="tablet>hansen"/>
+      <file name="blog-detail-hanses.css" crc="4226227981" ref="tablet>blog-detail-hanses"/>
+      <file name="iefonts_blog-detail-hanses.css" crc="336236754" ref="tablet>blog-detail-hanses"/>
+      <file name="portfolio-detail-hanses.css" crc="152576013" ref="tablet>portfolio-detail-hanses"/>
+      <file name="iefonts_portfolio-detail-hanses.css" crc="139021544" ref="tablet>portfolio-detail-hanses"/>
+    </folder>
+    <file name="index.html" crc="3772076580" seo="true" mt="1450338304335" redirect="true"/>
+    <file name="blog-detail-robert.html" crc="4054805162" seo="true" mt="1450338302561" redirect="true"/>
+    <file name="portfolio-detail-robert.html" crc="4233100030" seo="true" mt="1450338303504" redirect="true"/>
+    <file name="dopazo.html" crc="3771933431" seo="true" mt="1450338304083" redirect="true"/>
+    <file name="blog-detail-dopazo.html" crc="3959919330" seo="true" mt="1450338302416" redirect="true"/>
+    <file name="portfolio-detail-dopazo.html" crc="3994435711" seo="true" mt="1450338303515" redirect="true"/>
+    <file name="hansen.html" crc="3788354115" seo="true" mt="1450338303928" redirect="true"/>
+    <file name="blog-detail-hanses.html" crc="154163861" seo="true" mt="1450338302264" redirect="true"/>
+    <file name="portfolio-detail-hanses.html" crc="272989115" seo="true" mt="1450339436612" redirect="true"/>
+    <file name="portman.html" crc="4243637976" seo="true" mt="1450339436068" redirect="true"/>
+    <file name="blog-list-portman.html" crc="4280053411" seo="true" mt="1450338302414" redirect="true"/>
+    <file name="blog-detail-portman.html" crc="18667869" seo="true" mt="1450338301029" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_robert.css" crc="3830593680" ref="phone>blog-detail-robert:phone>index"/>
+      <file name="master_hansen.css" crc="4249515884" ref="phone>hansen:phone>blog-detail-hanses"/>
+      <file name="master_dopazo.css" crc="58128619" ref="phone>blog-detail-dopazo:phone>dopazo"/>
+      <file name="master_portman.css" crc="4060266942" ref="phone>portman:phone>blog-list-portman:phone>blog-detail-portman"/>
+      <file name="portman.css" crc="148218062" ref="phone>portman"/>
+      <file name="iefonts_portman.css" crc="4046286208" ref="phone>portman"/>
+      <file name="blog-list-portman.css" crc="144106042" ref="phone>blog-list-portman"/>
+      <file name="iefonts_blog-list-portman.css" crc="4029765101" ref="phone>blog-list-portman"/>
+      <file name="hansen.css" crc="289666852" ref="phone>hansen"/>
+      <file name="iefonts_hansen.css" crc="433582997" ref="phone>hansen"/>
+      <file name="portfolio-detail-dopazo.css" crc="434552960" ref="phone>portfolio-detail-dopazo"/>
+      <file name="iefonts_portfolio-detail-dopazo.css" crc="4164584323" ref="phone>portfolio-detail-dopazo"/>
+      <file name="blog-detail-robert.css" crc="4271942238" ref="phone>blog-detail-robert"/>
+      <file name="iefonts_blog-detail-robert.css" crc="469333498" ref="phone>blog-detail-robert"/>
+      <file name="portfolio-detail-hanses.css" crc="311989818" ref="phone>portfolio-detail-hanses"/>
+      <file name="iefonts_portfolio-detail-hanses.css" crc="4233435755" ref="phone>portfolio-detail-hanses"/>
+      <file name="index.css" crc="471711827" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3873949075" ref="phone>index"/>
+      <file name="blog-detail-hanses.css" crc="45907663" ref="phone>blog-detail-hanses"/>
+      <file name="iefonts_blog-detail-hanses.css" crc="4098441972" ref="phone>blog-detail-hanses"/>
+      <file name="portfolio-detail-robert.css" crc="4117481834" ref="phone>portfolio-detail-robert"/>
+      <file name="iefonts_portfolio-detail-robert.css" crc="3766890032" ref="phone>portfolio-detail-robert"/>
+      <file name="blog-detail-dopazo.css" crc="3825038370" ref="phone>blog-detail-dopazo"/>
+      <file name="iefonts_blog-detail-dopazo.css" crc="119747484" ref="phone>blog-detail-dopazo"/>
+      <file name="dopazo.css" crc="3872934678" ref="phone>dopazo"/>
+      <file name="iefonts_dopazo.css" crc="3901197522" ref="phone>dopazo"/>
+      <file name="blog-detail-portman.css" crc="410899589" ref="phone>blog-detail-portman"/>
+      <file name="iefonts_blog-detail-portman.css" crc="4201437416" ref="phone>blog-detail-portman"/>
+    </folder>
+    <file name="index.html" crc="3989046874" seo="true" mt="1450338304332" redirect="true"/>
+    <file name="blog-detail-robert.html" crc="507939929" seo="true" mt="1450338302562" redirect="true"/>
+    <file name="portfolio-detail-robert.html" crc="431789297" seo="true" mt="1450338303514" redirect="true"/>
+    <file name="dopazo.html" crc="4180496496" seo="true" mt="1450338304082" redirect="true"/>
+    <file name="blog-detail-dopazo.html" crc="4267420548" seo="true" mt="1450338302410" redirect="true"/>
+    <file name="portfolio-detail-dopazo.html" crc="4244959237" seo="true" mt="1450338303511" redirect="true"/>
+    <file name="hansen.html" crc="371809365" seo="true" mt="1450338303930" redirect="true"/>
+    <file name="blog-detail-hanses.html" crc="4057166043" seo="true" mt="1450338302266" redirect="true"/>
+    <file name="portfolio-detail-hanses.html" crc="4200062574" seo="true" mt="1450339436572" redirect="true"/>
+    <file name="portman.html" crc="421002601" seo="true" mt="1450339436148" redirect="true"/>
+    <file name="blog-list-portman.html" crc="390913591" seo="true" mt="1450338302415" redirect="true"/>
+    <file name="blog-detail-portman.html" crc="4264734090" seo="true" mt="1450338301028" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="510716438" seo="true" mt="1450339446197" redirect="true"/>
+  <file name="dopazo.html" crc="333630814" seo="true" mt="1450338304080" redirect="true"/>
+  <file name="hansen.html" crc="4159532853" seo="true" mt="1450338303927" redirect="true"/>
+  <file name="portman.html" crc="493321242" seo="true" mt="1450339436192" redirect="true"/>
+  <file name="blog-detail-robert.html" crc="4179977447" seo="true" mt="1450338302564" redirect="true"/>
+  <file name="portfolio-detail-robert.html" crc="4085444235" seo="true" mt="1450338303508" redirect="true"/>
+  <file name="blog-detail-dopazo.html" crc="205177010" seo="true" mt="1450338302412" redirect="true"/>
+  <file name="portfolio-detail-dopazo.html" crc="4011707453" seo="true" mt="1450338303506" redirect="true"/>
+  <file name="blog-detail-hanses.html" crc="239066133" seo="true" mt="1450338302265" redirect="true"/>
+  <file name="portfolio-detail-hanses.html" crc="191210989" seo="true" mt="1450339436662" redirect="true"/>
+  <file name="blog-list-portman.html" crc="4061956982" seo="true" mt="1450338302413" redirect="true"/>
+  <file name="blog-detail-portman.html" crc="27483227" seo="true" mt="1450338301026" redirect="true"/>
+</manifest>
