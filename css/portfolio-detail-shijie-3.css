@@ -17,7 +17,7 @@
 {
 	z-index: 1;
 	width: 1170px;
-	min-height: 7478px;
+	min-height: 22000px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -353,38 +353,40 @@
 {
 	position: absolute;
 	width: 1170px;
-	height: 6000px;
+	height: 4830px;
 	border-style: none;
-	background: #ffffff url("https://z3.ax1x.com/2021/06/17/2xn7M6.jpg") no-repeat center center / contain;
+	background: #ffffff url("https://z3.ax1x.com/2021/07/22/WBVr3n.png") no-repeat center top / contain;
 }
 
 #u5480:hover
 {
 	width: 1170px;
-	height: 6000px;
+	height: 4830px;
 	min-height: 0px;
 	margin: 0px;
-	background: #FFFFFF url("https://z3.ax1x.com/2021/06/17/2xn7M6.jpg") no-repeat center center / contain;
+	background: #FFFFFF url("https://z3.ax1x.com/2021/07/22/WBVr3n.png") no-repeat center top / contain;
 	background-color: rgba(255, 255, 255, 0.8);
 }
 
 #u5515
 {
 	position: absolute;
-	width: 370px;
-	height: 460px;
+	width: 1170px;
+	height: 4830px;
 	border-style: none;
-	left: 800px;
-	background: transparent url("../images/07.jpg") no-repeat center top;
+	left: 0px;
+	top: 4850px;
+	background: transparent url("https://z3.ax1x.com/2021/07/22/WBVD9s.png") no-repeat center top / contain;
 }
 
 #u5515:hover
 {
-	width: 370px;
-	height: 460px;
+	width: 1170px;
+	height: 4830px;
 	min-height: 0px;
 	margin: 0px;
-	background: #FFFFFF url("../images/07-u15509-r-fr.png") no-repeat center top;
+	top: 4850px;
+	background: #FFFFFF url("https://z3.ax1x.com/2021/07/22/WBVD9s.png") no-repeat center top / contain;
 	background-color: rgba(255,255,255,0.8);
 }
 
@@ -392,39 +394,41 @@
 {
 	position: absolute;
 	width: 1170px;
-	height: 350px;
+	height: 4830px;
 	border-style: none;
-	top: 490px;
-	background: transparent url("../images/08.jpg") no-repeat center center;
+	top: 9660px;
+	background: transparent url("https://z3.ax1x.com/2021/07/22/WBVwNQ.png") no-repeat center center / contain;
 }
 
 #u5517:hover
 {
 	width: 1170px;
-	height: 350px;
+	height: 4830px;
 	min-height: 0px;
 	margin: 0px;
-	background: #FFFFFF url("../images/08-u15507-r-fr.png") no-repeat center center;
+	top: 9660px;
+	background: #FFFFFF url("https://z3.ax1x.com/2021/07/22/WBVwNQ.png") no-repeat center center / contain;
 	background-color: rgba(255,255,255,0.8);
 }
 
 #u5519
 {
 	position: absolute;
-	width: 370px;
-	height: 565px;
+	width: 1170px;
+	height: 6040px;
 	border-style: none;
-	top: 870px;
-	background: transparent url("../images/09.jpg") no-repeat center center;
+	top: 14490px;
+	background: transparent url("https://z3.ax1x.com/2021/07/22/WBV0hj.png") no-repeat center center / contain;
 }
 
 #u5519:hover
 {
-	width: 370px;
-	height: 565px;
+	width: 1170px;
+	height: 6040px;
 	min-height: 0px;
 	margin: 0px;
-	background: #FFFFFF url("../images/09-u15508-r-fr.png") no-repeat center center;
+	top: 14490px;
+	background: #FFFFFF url("https://z3.ax1x.com/2021/07/22/WBV0hj.png") no-repeat center center / contain;
 	background-color: rgba(255,255,255,0.8);
 }
 
